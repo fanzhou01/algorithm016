@@ -1,5 +1,3 @@
-package com.problems.move-zeroes;
-
 class Solution {
     public void moveZeroes(int[] nums) {
         if(nums.length==0 || nums.length==1){
